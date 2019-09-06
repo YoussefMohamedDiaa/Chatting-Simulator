@@ -1,6 +1,6 @@
 #### Description
-A chatting application simulated on Java using socket APIs to deliver and receive 
-messages from different open sockets. :computer:
+A chatting application simulated on Java using socket APIs to deliver and receive <br/>
+messages from different open sockets. :computer: :mailbox_with_no_mail:
 
 
 #### To get started
